@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages（test）
+这是一个测试页面
 
 You can use the [editor on GitHub](https://github.com/kkwangRocks/kkwangrocks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,6 +16,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![image](https://www.baidu.com/img/bd_logo1.png)
+
+
 - Bulleted
 - List
 
@@ -22,6 +26,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
